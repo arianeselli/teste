@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-size: 100px;
+   background-image:url("https://images.unsplash.com/photo-1531379115628-32ab7454986c?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ");
+   background-size:400px;
+    }
+
+h1{
+    color: rgb(226, 134, 43);
+}
+
+#oi{
+    height:200px;
+    width:200px;
+}
